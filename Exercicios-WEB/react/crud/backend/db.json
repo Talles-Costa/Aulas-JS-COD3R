@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Talles Costa",
+      "email": "talles.teste@testando.com.br",
+      "id": 1
+    },
+    {
+      "name": "Maria Beatriz",
+      "email": "mbeatriz@teste.com.br",
+      "id": 2
+    }
+  ]
+}
