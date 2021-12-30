@@ -13,17 +13,12 @@
     {
       "id": 3,
       "name": "Samsung S20+",
-      "price": 5000.89
-    },
-    {
-      "name": "Talles Costa",
-      "price": "025",
-      "id": 4
+      "price": "5000.00"
     },
     {
       "name": "Geladeira",
       "price": "2500.00",
-      "id": 5
+      "id": 4
     }
   ]
 }
